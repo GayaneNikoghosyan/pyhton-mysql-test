@@ -7,7 +7,7 @@ mydb = mysql.connector.connect(
     database="customers"
 )
 
-# # hdmf87UqU9OY3tmo
+
 mycursor = mydb.cursor()
 #
 # # mycursor.execute("CREATE DATABASE Customers")
