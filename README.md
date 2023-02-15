@@ -1,1 +1,1 @@
-# pyhton-mysql
+# python-mysql
